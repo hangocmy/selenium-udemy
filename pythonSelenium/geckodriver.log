@@ -102,3 +102,4 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
 1656163890113	Marionette	INFO	Stopped listening on port 62941
+Invalid port. Exiting...
